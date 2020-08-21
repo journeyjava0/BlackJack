@@ -4,7 +4,7 @@ This is my first BlackJack game in Java.
 
 ## Installation
 
-Dowloand the java classes and compile in terminal.
+Download the java classes and compile in terminal.
 
 ## Credits
 
